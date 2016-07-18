@@ -1,0 +1,9 @@
+This is a SNAPSHOT of ELKI 0.7.0 really close to the 0.7.0 release.
+We expect results of the 0.7.0 release to be identical.
+
+This version is built WITHOUT VISUALIZATION or other add-ons.
+
+Please cite this version as:
+E. Schubert, A. Koos, T. Emrich, A. Züfle, K. A. Schmid, A. Zimek:
+A Framework for Clustering Uncertain Data.
+Proceedings of the VLDB Endowment, 8(12): 1976–1979, 2015.

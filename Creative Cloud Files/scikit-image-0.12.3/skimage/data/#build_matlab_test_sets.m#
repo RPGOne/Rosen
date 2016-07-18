@@ -1,0 +1,4 @@
+% Before calling this script, launch octave and type
+%   pkg install -forge image
+% or install the `octave-image` package on Debian.
+
